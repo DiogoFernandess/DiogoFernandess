@@ -1,5 +1,9 @@
-<h2 align="center">Olá! Sejam bem vindos ao meu Github!</h2>
+<h2 align="center">Olá! Sejam bem vindos ao meu Github!👋 </h2>
 
+<h3 align="left">💻Sobre mim</h3>
+<h4 align="left">Sou um desenvolvedor Backend apaixonado por tecnologias e aprendizado contínuo. Atualmente trabalho com Java criando aplicações úteis e Python para análise de dados e criação de modelos de Machine Learning.
+<h2 align="center"></h2>
+<h3 align="left"> 🤖Principais Linguagens e Tecnologias</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -12,6 +16,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
 </div>
+
+<h2 align="center"></h2>
+<h3 align="left">🌐Se conecte comigo!</h3>
 
 <div align="left">
   <a href="https://br.linkedin.com/in/i-diogo-fernandes" target="_blank">
